@@ -7,4 +7,4 @@ clone项目，编辑 lister.py文件替换其中的tables换成你的制表字�
 ![示例图加载失败！](https://github.com/kuingsamlee/generator_table/blob/master/images/exec.jpg)
 ![示例图加载失败！](https://github.com/kuingsamlee/generator_table/blob/master/images/lister.jpg)
 
-ps: 每列之间至少需一个制表符或两个空格
+ps: 每列之间至少需一个制表符或两个空格。
