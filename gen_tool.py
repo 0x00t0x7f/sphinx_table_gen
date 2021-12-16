@@ -110,6 +110,7 @@ def tables_output(filestrings, leftoffset=True):
 		print_tabs(matrix, leftoffset=leftoffset)
 	except IndexError as why:
 		print("请按照规定制表")
+		print(why)
 
 
 if __name__ == "__main__":
