@@ -15,8 +15,8 @@ reStructuredText sample table generator
 |token     |string      |授权访问令牌|
 +----------+------------+------------+
 
-![示例图加载失败！](https://github.com/kuingsamlee/generator_table/blob/master/images/exec.jpg)
-![示例图加载失败！](https://github.com/kuingsamlee/generator_table/blob/master/images/lister.jpg)
+![示例图加载失败！](https://github.com/0x00t0x7f/sphinx_table_gen/blob/master/images/exec.jpg)
+![示例图加载失败！](https://github.com/0x00t0x7f/sphinx_table_gen/blob/master/lister.jpg)
 
 使用sphinx api生成的文档中需要内嵌表格时，此脚本就是帮助你生成简单样式表格的工具，希望它对你有用！
 
